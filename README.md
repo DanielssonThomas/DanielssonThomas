@@ -4,9 +4,9 @@
 </section>
 
 <section>
-  <h3 align="center">Who am I?</h3>
+  <h2 align="center">About me</h2>
  <p>I am from Åland Islands Finland and currently studying in Gothenburg Sweden to become a webdeveloper. This Github account of mine has mostly school projects, where (hopefully) it is visible to see improvement in my code!</p>
-  <p>The pinned repositories are among the bigger projects I have had in school. </p>
+  <p>The pinned repositories are among the bigger projects I have had in school. I learned a lot from them, and I continue to learn and improve!</p>
 </section>
 
 <section align="center">
