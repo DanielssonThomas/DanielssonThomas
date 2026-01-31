@@ -1,12 +1,6 @@
 <section align="center">
   <h1>Hi there 👋</h1>
-  <p>My name is Thomas Danielsson, I am a webbdev student at <a href="https://www.yrgo.se/program/webbutvecklare/">Yrgo</a></p>
-</section>
-
-<section>
-  <h2 align="center">About me</h2>
- <p>I am from Åland Islands Finland and currently studying in Gothenburg Sweden to become a webdeveloper. This Github account of mine has mostly school projects, where (hopefully) it is visible to see improvement in my code!</p>
-  <p>The pinned repositories are among the bigger projects I have had in school. I learned a lot from them, and I continue to learn and improve!</p>
+  <p>My name is Thomas Danielsson, I am a webbdev at Crosskey!
 </section>
 
 <section align="center">
